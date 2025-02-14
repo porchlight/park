@@ -277,10 +277,10 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.21.3.tgz#4115233aa1bd5a2060214f96d8511f6247093212"
   integrity sha512-fOvu7PCQjAj4eWDEuD8Xz5gpzFqXzGlxHZozHP4b9Jxv9APtdxL6STqztDzMLuRXEc4UpXGGhx029Xgm91QBeA==
 
-"@ryangjchandler/alpine-tooltip@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@ryangjchandler/alpine-tooltip/-/alpine-tooltip-2.0.0.tgz#633c3bb0e07339f91e3a6885b37e0d600b769d30"
-  integrity sha512-7d0LWSvnrvA4HgXsmuviUemt9PEGi6vV9u/GuoEIgi1t4+MeZPGyITG3fKA3yu3iB25KxjTEbo+3wwoo/y+Jug==
+"@ryangjchandler/alpine-tooltip@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@ryangjchandler/alpine-tooltip/-/alpine-tooltip-2.0.1.tgz#e2c56b3dcc0c65d6457e3bd8a122b54acd9bd557"
+  integrity sha512-Hv9C02bUE4JSewZhfceYSHw+oiBuUF3ITCMKqmiFWJ3bvjhHZzM8YEPpNQVMfEVRR4K4JJYJD16re4stGIjoyg==
   dependencies:
     tippy.js "^6.3.1"
 
