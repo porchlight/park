@@ -74,16 +74,16 @@
         },
         {
             "name": "awcodes/filament-curator",
-            "version": "v3.6.9",
+            "version": "v3.6.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/awcodes/filament-curator.git",
-                "reference": "67c448a520ed93ca4fd5c6de9f1e8152d22a6c96"
+                "reference": "22542cf24fe18a75dcc0b0258e23419b0e86f9fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/awcodes/filament-curator/zipball/67c448a520ed93ca4fd5c6de9f1e8152d22a6c96",
-                "reference": "67c448a520ed93ca4fd5c6de9f1e8152d22a6c96",
+                "url": "https://api.github.com/repos/awcodes/filament-curator/zipball/22542cf24fe18a75dcc0b0258e23419b0e86f9fe",
+                "reference": "22542cf24fe18a75dcc0b0258e23419b0e86f9fe",
                 "shasum": ""
             },
             "require": {
@@ -143,7 +143,7 @@
             ],
             "support": {
                 "issues": "https://github.com/awcodes/filament-curator/issues",
-                "source": "https://github.com/awcodes/filament-curator/tree/v3.6.9"
+                "source": "https://github.com/awcodes/filament-curator/tree/v3.6.15"
             },
             "funding": [
                 {
@@ -151,7 +151,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-08-24T16:59:10+00:00"
+            "time": "2024-12-28T19:20:04+00:00"
         },
         {
             "name": "awcodes/filament-gravatar",
@@ -2552,16 +2552,16 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-master": "2.4-dev"
-                },
                 "laravel": {
-                    "providers": [
-                        "Intervention\\Image\\ImageServiceProvider"
-                    ],
                     "aliases": {
                         "Image": "Intervention\\Image\\Facades\\Image"
-                    }
+                    },
+                    "providers": [
+                        "Intervention\\Image\\ImageServiceProvider"
+                    ]
+                },
+                "branch-alias": {
+                    "dev-master": "2.4-dev"
                 }
             },
             "autoload": {
@@ -3620,16 +3620,16 @@
         },
         {
             "name": "league/glide",
-            "version": "2.3.0",
+            "version": "2.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/glide.git",
-                "reference": "2ff92c8f1edc80b74e2d3c5efccfc7223f74d407"
+                "reference": "62fc5ebd579e013e7573c00d1fb7e083ed395f00"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/glide/zipball/2ff92c8f1edc80b74e2d3c5efccfc7223f74d407",
-                "reference": "2ff92c8f1edc80b74e2d3c5efccfc7223f74d407",
+                "url": "https://api.github.com/repos/thephpleague/glide/zipball/62fc5ebd579e013e7573c00d1fb7e083ed395f00",
+                "reference": "62fc5ebd579e013e7573c00d1fb7e083ed395f00",
                 "shasum": ""
             },
             "require": {
@@ -3679,9 +3679,9 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/glide/issues",
-                "source": "https://github.com/thephpleague/glide/tree/2.3.0"
+                "source": "https://github.com/thephpleague/glide/tree/2.3.1"
             },
-            "time": "2023-07-08T06:26:07+00:00"
+            "time": "2024-12-17T05:40:16+00:00"
         },
         {
             "name": "league/glide-symfony",
@@ -10236,12 +10236,12 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {},
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.2"
     },
-    "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
