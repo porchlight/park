@@ -155,16 +155,16 @@
         },
         {
             "name": "awcodes/filament-gravatar",
-            "version": "v2.0.1",
+            "version": "v2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/awcodes/filament-gravatar.git",
-                "reference": "4d09f62b85a89e5f0b51c6cc129be04ab4b843b5"
+                "reference": "6a6574d6b0c9b76cf2e4961c9858e1de1f266743"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/awcodes/filament-gravatar/zipball/4d09f62b85a89e5f0b51c6cc129be04ab4b843b5",
-                "reference": "4d09f62b85a89e5f0b51c6cc129be04ab4b843b5",
+                "url": "https://api.github.com/repos/awcodes/filament-gravatar/zipball/6a6574d6b0c9b76cf2e4961c9858e1de1f266743",
+                "reference": "6a6574d6b0c9b76cf2e4961c9858e1de1f266743",
                 "shasum": ""
             },
             "require": {
@@ -208,9 +208,9 @@
             ],
             "support": {
                 "issues": "https://github.com/awcodes/filament-gravatar/issues",
-                "source": "https://github.com/awcodes/filament-gravatar/tree/v2.0.1"
+                "source": "https://github.com/awcodes/filament-gravatar/tree/v2.0.2"
             },
-            "time": "2024-01-06T15:24:00+00:00"
+            "time": "2025-01-14T14:47:35+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -10236,12 +10236,12 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {},
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.2"
     },
-    "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
