@@ -20,7 +20,7 @@
     "laravel/framework": "11.35.0",
     "laravel/sanctum": "^4.0",
     "laravel/tinker": "^2.9",
-    "livewire/livewire": "3.5.17",
+    "livewire/livewire": "3.6.0",
     "pboivin/filament-peek": "^2.2",
     "romanzipp/laravel-seo": "^2.6",
     "sinnbeck/markdom": "^2.0",
